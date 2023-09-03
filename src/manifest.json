@@ -1,0 +1,23 @@
+{
+  "manifest_version": "ext-v1",
+  "name": "TLDraw",
+  "short_name": "TLDraw",
+  "version": "1.0.5",
+  "description": "TLDraw",
+  "author": "Nji Daniel",
+  "homepage_url": "https://tldraw.com",
+  "icons": {
+    "128": "icons/icon.png",
+    "banner": "icons/banner.png",
+    "background": "icons/background.png"
+  },
+  "scripts": ["main.js"],
+  "modules": {
+    "console": {},
+    "runtime": {},
+    "tabs": {},
+    "windows": {},
+    "webviews": {},
+    "websessions": {}
+  }
+}
