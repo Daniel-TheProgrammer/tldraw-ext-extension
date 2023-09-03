@@ -2,7 +2,7 @@
 
 This repository contains the code for the TLDraw EXT extension, which allows you to draw and save your creations in an isolated EXT platform window. TLDraw is a simple drawing tool that works offline and provides multiple window support, making it easy to create and manage your drawings.
 
-## Installation
+## Installation : How to run 🚀
 
 To use the TLDraw EXT extension, follow these simple steps:
 
@@ -30,20 +30,10 @@ To use the TLDraw EXT extension, follow these simple steps:
    - Click on the TLDraw extension to open it in a new window.
    - You can create multiple windows by clicking the extension in the Library.
 
-## TLDraw Features
+## TLDraw Features ⚜️
 
-### Drawing ✅
-
-- Done
-
-### Multiple Windows ✅
-
-- Done
-
-### Tab and Window Management ✅
-
-- Done
-
-### Persistent Drawings ✅
-
-- Done
+ - Drawing : Completed ✅
+ - Multiple Windows: Completed ✅
+ - Tab and Window Management: Completed ✅
+ - Persistent Drawings: Completed ✅
+ - No Sound: Completed ✅
