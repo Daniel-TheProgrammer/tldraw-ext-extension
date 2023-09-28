@@ -9,7 +9,10 @@
   "icons": {
     "128": "icons/icon.png",
     "banner": "icons/banner.png",
-    "background": "icons/background.png"
+    "background": "icons/background.png",
+    "128-dark": "icons/icon-dark.png",
+    "banner-dark": "icons/icon-banner-dark.png",
+    "background-dark": "icons/icon-background-dark.png"
   },
   "scripts": ["main.js"],
   "modules": {
